@@ -183,6 +183,14 @@ footer {
   bottom:50px;
 }
 
+.test-classs {
+  width: 100%;
+}
+
+.test-footer {
+  display: none;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
